@@ -1,6 +1,8 @@
 # DRAIN
 GitHub Repo for ICLR 2023 (Oral) Paper *"Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks"*
 
+OpenReview link: https://openreview.net/forum?id=sWOsRj4nT1n
+
 <img src="./model_architecture.PNG" width="790" height="290">
 
 Our experiments include both classificaiton and regression datasets. For example, to run our experiments on 2-Moons dataset, go to the "classification" folder and do
