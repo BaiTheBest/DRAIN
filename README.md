@@ -1,4 +1,4 @@
 # DRAIN
 GitHub Repo for ICLR 2023 (Oral) Paper *"Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks"*
 
-<img src="https://github.com/BaiTheBest/DRAIN/model_architecture.PNG" width="600" height="235">
+<img src="./model_architecture.PNG" width="600" height="235">
