@@ -19,9 +19,12 @@ The code has been tested with PyTorch and Anaconda.
 
 If you find this code useful in your research, please consider citing:
 
-        @article{bai2022temporal,
-          title={Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks},
-          author={Bai, Guangji and Ling, Chen and Zhao, Liang},
-          journal={arXiv preprint arXiv:2205.10664},
-          year={2022}
+        @inproceedings{
+        bai2023temporal,
+        title={Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks},
+        author={Guangji Bai and Chen Ling and Liang Zhao},
+        booktitle={The Eleventh International Conference on Learning Representations },
+        year={2023},
+        url={https://openreview.net/forum?id=sWOsRj4nT1n}
         }
+
